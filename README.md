@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @st8ko
-- 👀 I’m interested in Data Science, ML, AI
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ignacyruszkowski@gmail.com
+Hi, I’m [**Ignacy Ruszkowski**](ignacyruszkowski.com).
 
-<!---
-st8ko/st8ko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I just finished my Bachelor in Econometrics and Data Science at University of Amsterdam. I am currently working on a startup designing custom MCPs for websites without native support. Besides that I am interested in AI Safety, and I am exploring the opportunities in that space.
